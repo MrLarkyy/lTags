@@ -1,0 +1,6 @@
+tags:
+  Example:
+    display: "Hello there!"
+    lore:
+      - "How are you?"
+      - "Nice to meet you!"

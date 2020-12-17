@@ -1,0 +1,6 @@
+name: LTags
+version: ${project.version}
+main: ltags.LTags
+commands:
+  tags:
+    description: Tags
